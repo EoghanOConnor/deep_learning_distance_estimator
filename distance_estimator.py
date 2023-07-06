@@ -1,3 +1,7 @@
+# The trained CNN is imported.
+# A video of pedestrians is loaded.
+# The predicted distance of the pedestrians are displayed on the video.
+
 import numpy as np
 from PIL import Image
 import matplotlib

@@ -1,3 +1,7 @@
+# The CNN model is created
+# The MAE and R2 score after training displayed to show performance prior to Monocular vision.
+# The models are saved locally.
+
 import numpy as np
 from PIL import Image
 import matplotlib

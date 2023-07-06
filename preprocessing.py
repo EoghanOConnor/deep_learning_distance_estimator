@@ -1,3 +1,7 @@
+# The KITTI dataset labels file is loaded.
+# Once loaded all info about each object within the training dataset and append to all_label_info
+# The info regarding the pedestrians is saved locally.
+
 import numpy as np
 import matplotlib
 from matplotlib import pyplot as plt
