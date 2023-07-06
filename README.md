@@ -18,7 +18,10 @@ The predicted distance of the pedestrians is displayed on the output video.
 
 
 
-https://github.com/EoghanOConnor/deep_learning_distance_estimator/assets/45408401/6544fc33-6d5c-425a-8c19-2a01359bbfe7
 
 
+
+
+
+https://github.com/EoghanOConnor/deep_learning_distance_estimator/assets/45408401/9938aa1e-e946-4ef3-81d3-aafe203e9bc6
 
